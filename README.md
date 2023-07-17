@@ -1,2 +1,2 @@
-MELD=3.78*Ln（总胆红素）+11.2*Ln（INR）+9.57*Ln（血肌酐）+6.43*（胆汁性或酒精性0，其他1）
-#https://www.doctor-network.com/Public/LittleTools/262.html
+基于丙氨酸转氨酶（ALT）、AST、PLT和患者年龄的FIB-4 指数可用于显著肝纤维化（相当于Metavir≥ F2）的诊断。 
+成人中FIB-4 指数 > 3.25，预示患者已经发生显著肝纤维化。 FIB-4 = [年龄 (岁) ×AST (U/L)] ÷ [PLT (×109/L) ×ALT (U/L)的平方根]。
