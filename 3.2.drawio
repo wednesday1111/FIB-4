@@ -574,6 +574,12 @@
         <mxCell id="6-L1UXihjVU2GdmT4669-30" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;算法部署&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="670" y="261.73" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6-L1UXihjVU2GdmT4669-33" value="&lt;b&gt;&lt;font color=&quot;#080808&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="549.69375" y="336.0402608695652" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6-L1UXihjVU2GdmT4669-35" value="&lt;b&gt;&lt;font color=&quot;#080808&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="615.97375" y="336.0402608695652" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
